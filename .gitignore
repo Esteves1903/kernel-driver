@@ -1,0 +1,26 @@
+# Compiled binaries
+*.sys
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.map
+
+# Build output directories
+x64/
+Debug/
+Release/
+x64Debug/
+x64Release/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.vcxproj.filters.bak
+
+# WDK / MSBuild
+*.log
+BuildLog.htm
